@@ -1,0 +1,92 @@
+body{
+    background-color: #2f3035;
+    background-image: url(img/back.jpg);
+    background-size:cover ;
+    background-position: center;
+    
+
+}
+header {
+
+    
+    text-align: center;
+    height:118px ;
+    
+
+
+}
+nav {
+
+    background-color: rgba(0, 0, 0, 0.247);
+    text-align: center;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+main {
+
+    /*background-color:rgb(233, 181, 85);*/
+    text-align: center;
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-top: 30px;
+    
+
+}
+footer {
+
+    background-color: rgba(0, 0, 0, 0.493);
+    
+    
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+    
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+h1 {
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(60, 168, 105);
+    padding-bottom: 20px;
+}
+p {
+    color: rgb(6, 27, 27);
+    font-size: 30px;
+
+}
+
+a { 
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    /*text-decoration: none;*/
+}
+nav a{
+    text-decoration: none;
+    font-family: serif;
+    padding-left: 20px;
+}
+footer p {
+
+    font-size:12px;
+    color: rgb(2, 41, 18);
+    
+    
+}
+.maps {
+    padding-bottom: 60px;
+    text-align: center;
+    
+}
